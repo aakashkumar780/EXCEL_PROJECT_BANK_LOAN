@@ -1,4 +1,4 @@
-# EXCEL_PROJECT_BANK_LOAN
+<img width="65" height="21" alt="image" src="https://github.com/user-attachments/assets/7ba39bcc-84b7-4afb-aa8a-d6bfa770b137" /># EXCEL_PROJECT_BANK_LOAN
 BANK_LOAN
 
 ## 📌 Objective:
@@ -60,8 +60,10 @@ This project successfully demonstrates the power of Excel in analyzing and visua
 
 The analysis highlighted key insights, including regional loan distribution, dominant loan purposes, borrower income patterns, and credit risk trends. These findings enable stakeholders to make data-driven decisions such as improving risk assessment, focusing on profitable segments, and managing defaults more effectively.
 
-
+## *SUMMARY DASHBOARD*
 <img width="1172" height="621" alt="Screenshot 2025-09-09 192031" src="https://github.com/user-attachments/assets/57dd8735-fc15-4c6c-b725-f22d0abf3cfa" />
 
-
+## *OVERVIEW DASHBOARD*
 <img width="1167" height="614" alt="Screenshot 2025-09-09 192016" src="https://github.com/user-attachments/assets/f419a691-17e8-41e0-9375-aea79123db5b" />
+
+
