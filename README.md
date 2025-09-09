@@ -1,5 +1,5 @@
-<img width="65" height="21" alt="image" src="https://github.com/user-attachments/assets/7ba39bcc-84b7-4afb-aa8a-d6bfa770b137" /># EXCEL_PROJECT_BANK_LOAN
-BANK_LOAN
+## EXCEL_PROJECT_BANK_LOAN
+
 
 ## 📌 Objective:
 
